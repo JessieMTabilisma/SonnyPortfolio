@@ -1,0 +1,23 @@
+{
+  "name": "sonnyportfolio",
+  "version": "1.0.0",
+  "description": "A portfolio to showcase artwork and illustration",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessieMTabilisma/SonnyPortfolio.git"
+  },
+  "author": "JessieMTabilisma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessieMTabilisma/SonnyPortfolio/issues"
+  },
+  "homepage": "https://github.com/JessieMTabilisma/SonnyPortfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "pixi.js": "^5.0.3"
+  }
+}
